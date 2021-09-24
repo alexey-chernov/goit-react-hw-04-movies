@@ -1,0 +1,2 @@
+(this["webpackJsonpgoit-react-hw-04-movies"]=this["webpackJsonpgoit-react-hw-04-movies"]||[]).push([[7],{66:function(t,e,n){t.exports={wrapper:"NotFound_wrapper__CXRcD"}},73:function(t,e,n){"use strict";n.r(e),n.d(e,"default",(function(){return a}));var r=n(66),o=n.n(r),s=n(1);function a(){return Object(s.jsx)("h1",{className:o.a.wrapper,children:"404 Page is not found"})}}}]);
+//# sourceMappingURL=not-found-view.b4222059.chunk.js.map
